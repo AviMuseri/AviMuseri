@@ -19,9 +19,9 @@ I am passionate about developing SaaS systems, solving problems, and working wit
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 ## 📌 Featured Projects  
-- [🔗 Project 1](https://github.com/username/project1) – Short description of the project  
-- [🔗 Project 2](https://github.com/username/project2) – Short description of the project  
-- [🔗 Project 3](https://github.com/username/project3) – Short description of the project  
+- [🔗 Project 1](https://github.com/AviMuseri/Monday-backend-project) – 
+  A full-stack project inspired by Monday.com, built to manage workflows and tasks efficiently. The application allows users to create boards, groups, and tasks, customize task attributes (status, priority,          members, etc.), and apply dynamic filters. Developed with React, Redux, Node.js, Express, and MongoDB, featuring real-time updates with WebSockets and a clean, user-friendly UI.
+- [🔗 Project 2](https://github.com/AmitBaruchh/Proj-Appsus) – web application inspired by Gmail and Google Keep, designed for efficient email management and note-taking. The Gmail module allows users to compose,   send, and organize emails into different folders (Inbox, Sent, Drafts, etc.), featuring a responsive and intuitive UI. The Google Keep module enables users to create, edit, and categorize notes with rich text      and color customization. 
 
 ## 📬 Contact Me  
 📧 **Email:** avi6630@Gmail.com  
