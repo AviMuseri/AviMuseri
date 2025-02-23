@@ -2,13 +2,19 @@
 
 I'm a full-stack developer with experience in JavaScript, React, Node.js, and .NET.  
 I am passionate about developing SaaS systems, solving problems, and working with new technologies.  
+###
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV5MHI2cm15eWdxMnJ1eGh5M2RodDQ3cmlvcDkzNmpxYnN6cWY4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+###
 💡 **Main Interests:**  
 - Frontend development with React  
 - Backend development with Node.js and .NET  
 - Building REST APIs  
 - Working with SQL and NoSQL databases  
-- Contributing to open-source projects  
+- Contributing to open-source projects
+
+
 
 ## 🚀 Technologies & Tools  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
