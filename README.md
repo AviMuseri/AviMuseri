@@ -25,7 +25,7 @@ I am passionate about developing SaaS systems, solving problems, and working wit
 
 ## 📬 Contact Me  
 📧 **Email:** avi6630@Gmail.com  
-🔗 **LinkedIn:**(https://www.linkedin.com/in/avi-museri/)
+🔗 **LinkedIn:** https://www.linkedin.com/in/avi-museri/
 
 ---
 
